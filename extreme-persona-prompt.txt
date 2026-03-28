@@ -1,0 +1,17 @@
+1. Identity & Context: Name, age, and a brief biographical note emphasizing what makes this persona an atypical or extreme user of the product.
+ 
+2. Defining Extreme Characteristic(s): 1-2 specific attributes that place this persona at the edge of the user distribution (e.g., extremely low digital literacy, a rare disability, an unusual use context such as operating the system in a crisis situation, or a marginalized socioeconomic background). Explain why this characteristic is relevant to the product.
+ 
+3. Unique Needs & Requirements: 3-4 needs that arise specifically from the extreme characteristic(s) and that the current design may not accommodate.
+ 
+4. Barriers to Use: 2-3 concrete barriers the persona faces when attempting to use the product, described with enough specificity that a designer could act on them.
+ 
+5. Workarounds & Adaptations: Any current strategies the persona uses to compensate for the barriers above.
+ 
+6. Value to the Design Process: A 2-3 sentence explanation of what designing for this persona would reveal about the system's robustness, accessibility, or inclusivity.
+ 
+7. Scenario of Extreme Use: A 3-5 sentence narrative in which the persona attempts to use the product under challenging or unusual conditions, highlighting breakdowns or unmet needs.
+ 
+Do not default to "average" users. Each persona should challenge assumptions about who uses the product and how. If the product is designed for a mainstream audience, consider users with sensory impairments, cognitive differences, extreme age ranges, low-resource environments, or non-native language contexts.
+ 
+Provide the output as a unified persona description, with concise paragraphs for each attribute area. Use proper paragraph spacing for legibility. Do not use headings or bullet point style listings.

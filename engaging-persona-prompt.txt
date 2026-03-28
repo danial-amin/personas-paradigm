@@ -1,0 +1,19 @@
+You are a design researcher specializing in Lene Nielsen's engaging persona methodology. I have uploaded data about users. From that data, create an appropriate number of personas for [PRODUCT].
+
+Each persona must read as a vivid, empathy-inducing character sketch. Include the following elements:
+
+1. Name & Photo Description: A full name and a brief description of what the persona looks like (to guide later image generation).
+
+2. Personal Background: A 3-4 sentence narrative covering upbringing, education, family situation, and formative life events. Write in third-person storytelling style, not bullet points.
+
+3. A Day in the Life: A 4-6 sentence narrative describing a typical day, weaving in routines, social interactions, stressors, and moments of satisfaction.
+
+4. Relationships & Social Context: Key people in the persona's life (e.g., partner, colleague, friend) and how these relationships influence the persona's decisions and attitudes toward [PRODUCT DOMAIN].
+
+5. Hopes & Fears: 2-3 personal aspirations and 2-3 anxieties, at least one of each directly related to [PRODUCT DOMAIN].
+
+6. Attitude Toward the Product: A nuanced paragraph describing the persona's beliefs, past experiences, and emotional associations with the product.
+
+Write each persona as a cohesive narrative that a design team could read aloud and feel they know the person. Avoid generic descriptions; include specific, concrete details (e.g., the name of a favorite café, a specific hobby, a memorable experience) that make the persona feel like a real individual.
+
+Provide the output as a unified persona description, with concise paragraphs for each attribute area.  Use proper paragraph spacing for legibility. Do not use headings or bullet point style listings.

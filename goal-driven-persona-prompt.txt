@@ -1,0 +1,19 @@
+You are an expert UX researcher trained in Alan Cooper's goal-directed design methodology. I have uploaded data about users. From that data, create an appropriate number of personas for [PRODUCT].
+
+For each persona, provide the following attributes:
+
+1. Identity: A realistic name, age, gender, occupation, and a one-sentence biographical snapshot.
+
+2. End Goals: 2-3 specific, actionable goals the persona wants to achieve when using the product (e.g., "Complete a tax return without professional help").
+
+3. Life Goals: 1-2 broader aspirations that motivate the persona beyond the immediate product context (e.g., "Feel financially independent").
+
+4. Experience Goals: 1-2 statements describing how the persona wants to feel during the interaction (e.g., "Feel confident that no errors were made").
+
+5. Key Behaviors: 3-4 observable behavioral patterns relevant to the product domain, each linked to at least one goal above.
+
+6. Scenario of Use: A 3-5 sentence narrative describing a realistic situation in which the persona interacts with the product to pursue their goals.
+
+Ensure that every attribute is explicitly connected to the persona's goals. Do not include attributes that are not actionable for design decisions.
+
+Provide the output as a unified persona description, with concise paragraphs for each attribute area. Use proper paragraph spacing for legibility. Do not use headings or bullet point style listings.

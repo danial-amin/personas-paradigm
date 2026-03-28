@@ -1,0 +1,83 @@
+# Digital Life Coaching Service — User Personas
+
+Based on analysis of the 1,003-respondent dataset, five functionally distinct personas emerge. These represent the primary role-based segments most relevant to a digital life coaching service, differentiated by how digital life affects their work performance, energy, trust behaviours, and openness to behaviour change — not by demographics alone.
+
+---
+
+## Persona 1: The Digitally Overextended Professional
+
+**Role Title & Organization Type:** Full-Time Knowledge Worker, Mid-to-Large Private Sector Organization (e.g., corporate office, remote-enabled firm, professional services)
+
+This is the single largest functional segment in the dataset. The role involves sustained daily computer and internet use as a core job requirement — managing communications, tasks, and information across multiple platforms throughout the working day, often spilling into evenings. The person in this role is not choosing to be online; digital engagement is structurally mandated by their employment.
+
+**Role Responsibilities:** Managing high volumes of email, messaging, and collaborative tools across the working day. Conducting online research, producing documents, and attending virtual meetings. Staying current with industry news and organizational communications. Navigating work-related social platforms such as LinkedIn. Balancing digital work demands with personal life, often without a clear boundary between the two.
+
+**Workflows & Tasks:** A typical productivity workflow begins with checking email and messaging apps first thing, often before leaving the bedroom, then shifting across multiple browser tabs and applications for research, communication, and task completion throughout the day. Currently, this respondent uses tools like Google Search, standard office suites, and AI assistants to accelerate routine tasks. They would interact with a digital coaching service primarily during or immediately after the workday, likely through a mobile app or short browser-based session, seeking tools that help them draw boundaries between work screen time and personal screen time. A secondary workflow involves end-of-day decompression, where they report turning to social media or videos as a wind-down mechanism — a behaviour they frequently regret. A coaching service would intersect this moment most effectively. They occasionally interact with trusted colleagues or managers when flagging information reliability, though they largely filter content independently.
+
+**Domain Expertise:** Intermediate with respect to digital self-management tools. They are highly proficient with workplace technology but have low familiarity with structured digital wellbeing practices. They are aware that AI tools exist and use them selectively for task efficiency, but they are moderately confident — not highly confident — in distinguishing AI-generated content from human content. They tend to rely on Google search and academic or expert sources for verification.
+
+**Organizational Constraints:** Employer expectations of constant digital availability create a structural barrier to reducing screen time; logging off is perceived as a professional risk. Budget for personal development tools is self-funded and modest, meaning any coaching service must demonstrate clear value quickly or be abandoned. Institutional norms around productivity may frame digital boundaries as laziness rather than wellbeing strategy, creating internal resistance even when the individual recognizes the problem.
+
+**Collaboration Points:** Interacts with line managers who implicitly set norms around response time and availability. May share digital wellbeing concerns informally with peers or friends, but rarely escalates them formally. A coaching service would operate independently of this person's employer, though employer wellness programmes represent a potential partnership channel.
+
+**Brief Demographics:** Jamie, 37, approximately 10 years in professional employment.
+
+---
+
+## Persona 2: The Scroll-Trapped Social Scroller
+
+**Role Title & Organization Type:** Part-Time or Entry-Level Worker, Service Sector or Early-Career Office Environment
+
+This persona's primary daily digital activity is not professionally driven — it is social and entertainment-oriented. They spend five to eight hours online daily, a significant portion of which is passive scrolling on social media and short-form video platforms. They are acutely aware of this pattern, frequently regret it, and feel its emotional cost in terms of low self-esteem, comparison anxiety, and a sense of wasted time. They are the segment most likely to describe themselves as feeling "drained," "empty," or "guilty" after extended online sessions. This is not a niche group — it is the dominant pattern among respondents aged 18 to 34, and it cuts across gender lines.
+
+**Role Responsibilities:** Meeting work or study obligations while managing a high baseline of social media engagement. Keeping up with peer networks, trends, and platform-specific social norms. Managing digital identity across multiple platforms (Instagram, TikTok, X, Reddit). Navigating the emotional labour of comparing their life to curated online presentations. Attempting — and often failing — to implement self-imposed screen time limits.
+
+**Workflows & Tasks:** The primary workflow is habitual and largely involuntary: opening social media apps during transition moments (commuting, waiting, waking up, trying to sleep), then remaining engaged far longer than intended. There is no deliberate tool use beyond the platforms themselves; verification of content is inconsistent, typically a quick Google search or gut-feel dismissal. A digital coaching service would most productively engage this persona through in-the-moment mobile notifications or friction-based check-ins that interrupt the scroll loop — not through long-form coaching sessions they are unlikely to complete. A secondary workflow involves moments of genuine aspiration: they express a desire to spend time doing something meaningful, learning a skill, exercising, or connecting in person — all listed as preferred alternatives when they regret online time. Coaching interventions built around values-alignment (connecting intended behaviour to what they actually want) would resonate here.
+
+**Domain Expertise:** Novice with respect to structured behaviour change. Expert-level familiarity with social platforms themselves. They consume enormous volumes of content but have low trust literacy — they often cannot distinguish AI-generated content, and they are aware of this gap. They trust academic experts and close friends over media institutions, but tend not to actively fact-check in the moment.
+
+**Organizational Constraints:** Limited financial resources constrain willingness to pay for coaching tools; free or freemium entry points are essential. Social peer norms strongly reinforce platform use — opting out feels isolating, not empowering. Emotional regulation challenges (loneliness, boredom, anxiety) are often the underlying drivers of use, meaning a coaching service that addresses surface behaviour without addressing emotional context will have limited efficacy.
+
+**Collaboration Points:** Peer relationships are the primary influence on digital behaviour for this persona. Recommendations from friends carry more weight than expert advice. A coaching service could leverage social accountability features — shared goals, check-ins with friends — as engagement mechanisms. This persona occasionally asks trusted friends or family to verify questionable online content.
+
+**Brief Demographics:** Riley, 25, three years in part-time or early-career employment.
+
+---
+
+## Persona 3: The Informed but Overwhelmed News Consumer
+
+**Role Title & Organization Type:** Full-Time or Part-Time Worker, Mid-Career, Any Sector — Distinguished by Active News Consumption as a Core Online Behaviour
+
+This persona is defined not by their job type but by their relationship with online information. They spend significant time consuming news and current affairs content — far more than their peers — and they experience a distinctive emotional profile as a result: they feel "informed" in the positive sense but also "overwhelmed," "drained," and frequently "dismayed" by what they encounter. They are among the highest scorers on questions about AI-generated misinformation concern, distrust of social media and news content, and worry about AI's societal impact. This group is distinguished from Persona 1 (the overextended professional) by the fact that their digital stress is primarily epistemic rather than workload-driven: they are troubled by what they are reading, not just by how much they are reading.
+
+**Role Responsibilities:** Staying current with political, social, and global events as part of their personal and professional identity. Evaluating the credibility of information sources across a fragmented media landscape. Sharing or engaging with news content in personal and professional networks. Managing the emotional residue of frequent exposure to distressing or contested information. Attempting to identify trustworthy sources in an environment they increasingly perceive as manipulated by AI and institutional bias.
+
+**Workflows & Tasks:** A typical workflow begins with a morning sweep of news sources — a mix of traditional outlets, social media, and aggregator feeds — and continues throughout the day in response to notifications or links shared by peers. Currently they rely on Google Search, established news organisations, and academic or expert sources for verification, and they are one of the most consistent cross-referencers in the sample. They frequently engage a mental "is this real?" filter but report uncertainty about its reliability. A coaching service would be most useful to this persona as an information literacy and emotional resilience tool — helping them develop a structured relationship with news consumption that preserves their sense of being informed without the accompanying anxiety spiral. Peer discussions about what is trustworthy are a regular part of their information workflow.
+
+**Domain Expertise:** Intermediate to expert on current events and media literacy in principle; intermediate in practice when it comes to detecting AI-generated content. They know more than most about the information landscape but feel increasingly outpaced by the sophistication of manipulated content. They tend to trust academics and established institutions more than independent creators, but they are losing confidence in all categories.
+
+**Organizational Constraints:** The coaching need here is personal rather than organizational, though employers in fields such as journalism, policy, law, or education may find this persona disproportionately represented in their workforce. Coaching interventions compete with the moral and professional obligation this persona feels to stay informed — reducing news consumption feels irresponsible to them, not just uncomfortable. Any framing around "digital detox" will be rejected; framing around sustainable engagement and information hygiene will resonate.
+
+**Collaboration Points:** Engages with colleagues, friends, and family around information reliability. Frequently the person in social networks who flags misinformation or advocates for source quality. A coaching service could position itself as a trusted information partner for this persona — not telling them what to think, but helping them structure when and how they engage with news content.
+
+**Brief Demographics:** Morgan, 44, approximately 18 years of professional experience.
+
+---
+
+## Persona 4: The Digitally Ambivalent Remote Worker or Caregiver
+
+**Role Title & Organization Type:** Remote Worker, Caregiver, or Hybrid Role — Often Working from Home Across Caregiving or Domestic Responsibilities
+
+This persona is functionally defined by the blurring of digital life across multiple simultaneous roles — professional, domestic, and social — with no clean separation between them. They are online for more than eight hours daily, but this figure masks a complex mix of work tasks, caregiving administration (booking appointments, managing household logistics, staying connected with dispersed family), and passive social media use that fills the interstices of a demanding day. They represent a distinct functional challenge for a coaching service because their digital overload is structurally embedded: reducing screen time is not simply a matter of willpower but requires renegotiating the conditions of their work and caregiving arrangements.
+
+**Role Responsibilities:** Managing professional deliverables from a home environment while simultaneously attending to caregiving demands. Coordinating household logistics, appointments, and communications across multiple digital platforms. Maintaining social and familial connections digitally, often as a substitute for in-person contact. Attending virtual meetings and managing asynchronous communications across time zones or flexible schedules. Processing the emotional labour of being constantly reachable and rarely truly offline.
+
+**Workflows & Tasks:** Their digital day has no clear start or end. A morning caregiving workflow transitions directly into professional digital tasks, then returns to domestic digital tasks (online shopping, booking services, messaging family members), before an evening of social media or streaming that they experience as the only available form of rest. A coaching service would need to engage this persona in micro-sessions — five-to-ten minute check-ins — rather than extended sessions, because sustained attention is a scarce resource. They most urgently need help with role-switching cues: signals that help them shift from professional digital mode to personal digital mode to genuinely offline mode. They currently rely on taking breaks, talking to someone, or turning off the phone as coping mechanisms, though they report inconsistent success.
+
+**Domain Expertise:** Intermediate across all relevant domains. They are practically proficient with digital tools but have little structured knowledge of digital wellbeing practices. They are moderately confident in identifying misinformation and moderately concerned about AI, but these concerns are secondary to the more immediate challenge of managing daily demand. They tend to trust family and friends for information alongside academic sources.
+
+**Organizational Constraints:** The absence of a clear work-home boundary is the defining organizational constraint. Remote working policies that assume constant availability create structural pressure that individual coaching cannot fully resolve, though it can provide coping strategies. Caregiving responsibilities are largely invisible to employers and coaching service designers alike, and services that fail to acknowledge these constraints will feel irrelevant. Financial accessibility is important — this persona is likely managing a household budget and will scrutinize the cost-benefit case for any personal development expenditure.
+
+**Collaboration Points:** Family members are key stakeholders in this persona's digital habits — screen time affects shared household time and parenting norms. Coaching outcomes may need to be negotiated with partners or co-caregivers to be sustainable. This persona would benefit from shared accountability features that include household members, not just individual-focused tracking.
+
+**Brief Demographics:** Sam, 38, approximately 12 years across combined professional and caregiving responsibilities.

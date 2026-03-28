@@ -1,0 +1,49 @@
+Here are the proto-personas for the digital life coaching service:
+
+---
+
+**Persona 1: "Overwhelmed Oliver"**
+
+Oliver is a 34-year-old mid-level marketing manager living in a mid-sized city. He is college-educated, earns around $72,000 per year, and shares an apartment with his long-term partner. He is digitally fluent, comfortable with apps and subscription services, and rarely goes a day without his smartphone.
+
+Oliver feels perpetually behind — at work, in his relationships, and in his personal goals. He has been meaning to get in shape, improve his sleep, and ask for a promotion for over a year, but somehow none of it happens. He knows what he should be doing but struggles to translate intention into action. He has casually browsed self-help content but finds it hard to stay consistent.
+
+He wants a structured, judgment-free system that helps him prioritize and actually follow through. He is motivated by measurable progress and responds well to accountability. He worries that a coaching service will feel generic or preachy, and he is price-sensitive enough that he needs to see clear value quickly before committing to a subscription.
+
+Oliver would most likely discover the service through a podcast ad or a recommendation from a colleague. He would try a free trial but churn quickly if early sessions feel too slow or too vague. Retaining him requires fast wins and a sense of forward momentum from the very first interaction.
+
+---
+
+**Persona 2: "Transitioning Teresa"**
+
+Teresa is a 47-year-old former operations director who recently left her corporate job to reassess her career direction. She lives in a suburban home with her teenage son and is financially stable thanks to savings and a severance package, giving her roughly six to twelve months of runway to figure out her next chapter. She is a confident technology user but prefers depth over novelty in the tools she adopts.
+
+Teresa is at a genuine crossroads and knows it. She is asking big questions about identity, purpose, and what she actually wants from the second half of her professional life. She has considered traditional therapy but feels her needs are more forward-looking than clinical. She has also looked at executive coaching but found it too narrowly career-focused. She is searching for something that holds the whole picture.
+
+She wants a coach — or a coaching platform — that treats her as a capable, intelligent adult and engages with complexity. She is drawn to frameworks, reflection exercises, and substantive conversation rather than affirmations or gamification. She is willing to pay a premium if the service feels credible and personalized, and she will research the company thoroughly before signing up.
+
+Teresa is likely to find the service through a LinkedIn article, a trusted friend's referral, or an editorial feature. She will read reviews, examine the credentials behind the platform, and probably schedule a consultation call before purchasing. Earning her trust upfront is the critical conversion challenge.
+
+---
+
+**Persona 3: "Ambitious Amara"**
+
+Amara is a 26-year-old recent graduate working her first full-time job in UX design at a tech startup in a major metro area. She earns around $58,000, rents with roommates to manage costs, and is deeply embedded in a culture of self-optimization, wellness content, and side-hustle ambition. She follows productivity influencers, has tried multiple habit-tracking apps, and listens to personal development podcasts during her commute.
+
+She is not struggling so much as she is hungry. Amara wants to grow faster — professionally and personally — and she feels the gap between where she is and where she wants to be acutely. She is figuring out her values, building her confidence, and trying to determine whether her current job is the right fit or just a stepping stone. She experiences occasional anxiety around comparison and fear of falling behind her peers.
+
+Amara wants a coaching experience that feels modern, social, and relevant to her actual life stage. She is drawn to goal-setting frameworks, career development guidance, and community or peer connection features. She is comfortable with a lower price point and would likely start with a freemium tier, upgrading only if she becomes genuinely engaged. She is highly shareable — if the service impresses her, she will talk about it.
+
+She will discover the service through Instagram, TikTok, or a mention in a newsletter she subscribes to. Onboarding needs to feel exciting and immediately personalized, and the platform's visual identity and tone matter significantly to her first impression and continued engagement.
+
+---
+
+**Persona 4: "Skeptical Steven"**
+
+Steven is a 41-year-old electrician and small business owner living in a rural community. He is married with two kids, earns a solid income through his business, and identifies strongly with self-reliance and practical problem-solving. He is a functional smartphone user but not particularly enthusiastic about apps or digital subscriptions, which he often views as unnecessary expenses.
+
+Steven has recently been experiencing stress related to managing business growth, a strained marriage, and feeling disconnected from a sense of personal direction. A family member suggested he try life coaching, and he looked it up with a mixture of genuine curiosity and considerable skepticism. He does not use the vocabulary of wellness or personal development and would bristle at anything that feels soft, trendy, or condescending.
+
+He needs a service that speaks plainly, focuses on concrete outcomes, and respects his time. He would respond to framing around performance, clarity, and practical problem-solving rather than emotional growth language. If the platform can demonstrate real-world results through honest testimonials from people who look and sound like him, his skepticism can be converted into loyalty. He is actually a high-retention user if he finds something that works.
+
+Steven is hardest to acquire through typical digital channels. Word-of-mouth from someone he respects is by far the most likely discovery path. Any paid acquisition strategy targeting him should avoid polished lifestyle imagery and instead lead with straightforward, results-oriented messaging. The mobile experience must be simple and require minimal setup friction.

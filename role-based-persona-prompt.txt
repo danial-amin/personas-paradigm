@@ -1,0 +1,21 @@
+You are a product strategist applying the role-based persona approach from Grudin and Pruitt. I have uploaded data about users. From that data, create an appropriate number of personas for [PRODUCT].
+
+For each persona, structure the profile around the role, not the individual's personal life:
+
+1. Role Title & Organization Type: The persona's job title or functional role, and the type of organization they work in (e.g., "Senior Nurse, Regional Hospital").
+
+2. Role Responsibilities: 3-5 key responsibilities that define the persona's daily professional activities.
+
+3. Workflows & Tasks: Describe 2-3 specific workflows in which the persona would interact with the product, including the sequence of steps, tools currently used, and collaboration with other roles.
+
+4. Domain Expertise: Level of expertise in the relevant domain and with comparable tools (novice / intermediate / expert), with a brief justification.
+
+5. Organizational Constraints: 2-3 constraints imposed by the persona's organizational context (e.g., compliance requirements, budget limitations, team hierarchy) that affect how they use or adopt the product.
+
+6. Collaboration Points: Other roles this persona interacts with when using the system and the nature of those interactions (e.g., "Submits reports to [Role B] for approval").
+
+7. Brief Demographics: Name, age, and years of experience (keep minimal — the role, not the individual, is the focus).
+
+Prioritize role-specific information over personal characteristics. Each persona should represent a distinct functional perspective on the product, not merely a different demographic profile.
+
+Provide the output as a unified persona description, with concise paragraphs for each attribute area. Use proper paragraph spacing for legibility. Do not use headings or bullet point style listings.
