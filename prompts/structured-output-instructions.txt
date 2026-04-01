@@ -1,0 +1,11 @@
+
+---
+Structured output requirement (this run only):
+Produce exactly [NUM_PERSONAS] personas as JSON (no markdown fences, no commentary before or after).
+
+General rules:
+- Top-level object must include a `personas` array with exactly [NUM_PERSONAS] entries, `persona_index` starting at 1.
+- Each persona must address every numbered section from the methodology in the system prompt above.
+- Prefer **one string field per methodology section** (short snake_case names matching that section’s intent) instead of stuffing everything into a single blob. When the client enforces a fixed schema (e.g. OpenAI Structured Outputs), match that schema exactly.
+- Each string field should be full sentences / paragraphs as appropriate—same depth as narrative mode, just split across fields.
+- Do not merge two personas into one entry; do not duplicate the same person twice.

@@ -1,0 +1,7 @@
+{
+  "run_id": "20260331T215351Z",
+  "config_path": "experiment_config.test.yaml",
+  "output_dir": "outputs/experiments_test/20260331T215351Z",
+  "models_with_keys": 3,
+  "loop_order": "dataset \u2192 paradigm \u2192 output_format \u2192 model"
+}

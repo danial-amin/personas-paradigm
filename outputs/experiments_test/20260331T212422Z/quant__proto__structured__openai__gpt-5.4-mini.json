@@ -1,0 +1,28 @@
+{
+  "personas": [
+    {
+      "persona_index": 1,
+      "attributes": {
+        "attribute_1": "A 35–44-year-old male working full-time, based in the United States or United Kingdom, English-speaking, and spending about 7–10 hours online each day. He is a heavy but purposeful user who relies on digital tools for work, information, and staying connected, yet feels the cost of that usage in energy and attention.",
+        "attribute_2": "He usually feels tired, drained, or fatigued after long online sessions, and often describes the experience as guilty, wasted, or regretful when he realizes time has slipped away. His online life is a mix of utility and overload: he values convenience, speed, and access to information, but notices how easily feeds and notifications pull him into passive scrolling.",
+        "attribute_3": "He is motivated by content that reflects values such as learning, productivity, honesty, and usefulness. When his online activity feels aligned with those values, he becomes more focused and energized; when it does not, he feels less focused and more likely to regret the time spent.",
+        "attribute_4": "He is highly skeptical of online content, especially social media, images, videos, and news mixed with social platforms. He often questions whether content is real or trustworthy, and when something seems false or misleading he feels annoyed, angry, or cheated.",
+        "attribute_5": "He is very concerned about AI-generated content, especially when it is used to manipulate attention or decisions. He is moderately to very confident in spotting AI versus human content, worries that AI will reduce the value of human creativity, and does not trust big tech to use AI responsibly.",
+        "attribute_6": "When he is unsure about online information, he typically looks for multiple sources or uses Google search, then checks whether the claim is supported by clear facts and evidence. He trusts academics and experts most, and also values established institutions when they are transparent and evidence-based.",
+        "attribute_7": "When digital life feels overwhelming, his first response is usually to take a break, exercise, or turn off the phone. He appreciates the convenience and efficiency technology brings, but wants less screen time, fewer distractions, and more intentional use of digital tools. A strong future-report topic for him would be how constant algorithm-driven feeds and digital distraction affect focus, memory, and mental health."
+      }
+    },
+    {
+      "persona_index": 2,
+      "attributes": {
+        "attribute_1": "A 25–34-year-old female, usually working full-time or caregiving, based in the United States, United Kingdom, or Canada, and spending 5–8 hours online daily. She uses the internet heavily for connection, entertainment, and practical life management, but is increasingly aware of how it affects her wellbeing.",
+        "attribute_2": "She often feels tired, sluggish, or mentally worn down after being online for long periods, and the emotional aftermath is usually guilt, sadness, or a sense that time was wasted. At the same time, she still experiences online spaces as engaging and socially useful, especially when they help her stay in touch with others or get things done.",
+        "attribute_3": "She is strongly drawn to content that supports family, responsibility, learning, or immediate productivity. When her digital activity matches her values, she feels more focused and more positively about the time spent; when it does not, she wants to step away and reclaim her time.",
+        "attribute_4": "She is cautious about the trustworthiness of online content and is particularly wary of social media, videos, images, and news that feel manipulative or overly polished. When something turns out to be false, she tends to feel annoyed, disappointed, or betrayed, and she often wants clearer context before believing it.",
+        "attribute_5": "She is uneasy about AI-generated content and the possibility that it is designed to keep her engaged or influence her choices. She is moderately confident in telling human from AI content, worries that AI will make human creativity less valued, and is skeptical that major tech companies will use AI responsibly.",
+        "attribute_6": "When she doubts something online, she usually looks for multiple sources and checks for clear facts or evidence before trusting it. She relies most on academics and experts, but also wants input from people she knows and from established institutions when the topic affects her life directly.",
+        "attribute_7": "Her default coping move when digital life feels overwhelming is to take a break or turn off the phone, often with the intention of spending less time scrolling and more time on offline priorities. She values technology for convenience, communication, and access to knowledge, but wants stronger boundaries, less mindless scrolling, and a healthier relationship with social media and AI-driven feeds."
+      }
+    }
+  ]
+}

@@ -1,4 +1,5 @@
-You are a UX consultant helping a team rapidly generate
-preliminary personas for [PRODUCT]. Create an appropriate number of personas.
+You are a UX consultant helping a team rapidly generate preliminary personas for [PRODUCT]. Create an appropriate number of personas.
+
+These are **proto** personas: quick, hypothesis-level sketches to align the team before deeper research. They are **not** required to be grounded in a specific dataset or survey—use plausible assumptions about typical and edge users for this product space.
 
 Provide the output as a unified persona description, with concise paragraphs for each attribute area. Use proper paragraph spacing for legibility. Do not use headings or bullet point style listings.

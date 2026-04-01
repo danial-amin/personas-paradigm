@@ -1,0 +1,79 @@
+# Persona generation experiment — edit paths and models here.
+# Run from repo root:  python scripts/run_persona_experiment.py
+# Smaller test matrix: experiment_config.test.yaml — copy .env.example to .env for API keys.
+
+product: "a company offering digital life coaching services"
+product_domain: "personal development and digital wellness"
+
+# How many personas each call should generate (injected into prompts).
+num_personas: 5
+
+# Where to write results (created if missing). Each run also appends to manifest.jsonl here.
+output_dir: "outputs/experiments"
+
+# Tabular datasets: first N rows as sample + summary stats (same idea as the notebook).
+datasets:
+  - id: quant
+    kind: csv
+    path: "data/data_quant/HCI_2025_DigitalLifeSurvey_public.csv"
+    sample_max_rows: 1000
+
+  - id: mixed
+    kind: csv
+    path: "data/data_mixed/Dataset.csv"
+    sample_max_rows: 1000
+
+  # Qualitative text: multiple transcript CSVs combined with a source label.
+  - id: qual
+    kind: transcript_csv
+    paths:
+      - "data/data_qual/workforce_transcripts.csv"
+      - "data/data_qual/scientists_transcripts.csv"
+      - "data/data_qual/creatives_transcripts.csv"
+    id_column: transcript_id
+    text_column: text
+    # Truncate very long turns to stay within context limits.
+    max_chars_per_transcript: 12000
+    # Cap rows per file (first N after optional shuffle); keeps runtime manageable.
+    max_rows_per_file: 45
+
+# Paradigm id -> prompt file under prompts/
+paradigms:
+  goal-driven: "goal-driven-persona-prompt.txt"
+  engaging: "engaging-persona-prompt.txt"
+  role-based: "role-based-persona-prompt.txt"
+  extreme: "extreme-persona-prompt.txt"
+  proto: "proto-prompt.txt"
+
+# Output modes: narrative = plain prose (.txt), structured = JSON (.json) using prompts/structured-output-instructions.txt
+output_formats:
+  - narrative
+  - structured
+
+# At least three providers — set API keys: ANTHROPIC_API_KEY, OPENAI_API_KEY, GOOGLE_API_KEY
+# Comment out a model block to skip it if you do not have that key.
+# OpenAI: gpt-5.x / some o-series models need max_completion_tokens; the runner
+# infers that from the model_id, or set explicitly:
+#   use_max_completion_tokens: true   # or false to force max_tokens
+models:
+  - provider: anthropic
+    model_id: "claude-sonnet-4-20250514"
+    max_tokens: 8192
+  - provider: openai
+    model_id: "gpt-4o"
+    max_tokens: 8192
+  - provider: google
+    model_id: "gemini-2.0-flash"
+    max_tokens: 8192
+
+# Inference
+temperature: 0.7
+
+# OpenAI only: enforce JSON via API Structured Outputs (per-paradigm schema). Set false to use prompt-only JSON.
+openai_structured_outputs: true
+
+# Anthropic 529 (overloaded) — wait between retries (seconds), multiplicative backoff.
+anthropic_retry:
+  max_attempts: 6
+  initial_delay_seconds: 15
+  backoff_multiplier: 2

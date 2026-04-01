@@ -1,0 +1,25 @@
+Identity: Sarah Jenkins, 48, Female, Full-time administrator, a dedicated professional struggling to balance her career responsibilities with an increasing sense of digital fatigue and skepticism toward online content.
+
+End Goals: To effectively filter out misinformation and AI-generated noise during her daily research; to establish a healthier, more intentional routine that reduces the time she feels compelled to spend scrolling.
+
+Life Goals: To maintain a sense of clarity and mental well-being despite the overwhelming influx of daily digital information; to feel that her time, both professional and personal, is spent on purposeful, high-value activities.
+
+Experience Goals: To feel empowered and in control of her digital environment rather than manipulated by algorithms; to experience a sense of relief and calm when she chooses to step away from her devices.
+
+Key Behaviors: Sarah frequently consults multiple sources when she encounters suspicious information to verify its authenticity, directly supporting her goal of filtering out noise. She actively utilizes "taking a break" as her primary coping mechanism when feeling overwhelmed, reflecting her desire to regain control over her digital consumption. She is highly sensitive to the impact of social media on her focus, often feeling "duped" by misleading content, which drives her preference for verified, fact-based information.
+
+Scenario of Use: After a long day of work, Sarah finds herself mindlessly scrolling through social media, feeling the familiar irritation of seeing AI-generated content mixed in with real news. She opens the digital life coaching app to access a guided "digital reset" session, which helps her transition from work mode to a state of calm. By following the app's structured advice on setting intentional boundaries for her evening, she successfully puts her phone away to focus on a non-digital hobby, feeling relieved and mentally refreshed.
+
+<<<PERSONA_BREAK>>>
+
+Identity: Marcus Thorne, 29, Male, Full-time software developer, a tech-savvy professional who is deeply concerned about the long-term impact of algorithmic content on his attention span and mental clarity.
+
+End Goals: To improve his personal productivity by minimizing distractions; to build a more robust, fact-based mental framework for evaluating the credibility of the information he consumes daily.
+
+Life Goals: To sustain deep, undistracted focus in his work and personal creative projects; to ensure his human creativity and intuition remain sharp and uncompromised by reliance on AI assistants.
+
+Experience Goals: To feel confident and secure in his ability to distinguish between human-generated and AI-generated content; to feel satisfied that his daily digital interactions are actively contributing to his personal growth rather than depleting his energy.
+
+Key Behaviors: Marcus consistently prioritizes "Academics/experts" as his most trusted source of information, reflecting his goal of building a factual, reliable knowledge base. He is prone to feelings of guilt when he realizes he has spent too much time on unproductive digital activities, which motivates him to use the app to track and limit his "passive scrolling." He actively seeks out evidence-based reports on digital wellness to better understand the physiological effects of his screen time, aligning with his aspiration to protect his cognitive health.
+
+Scenario of Use: During his lunch break, Marcus realizes he has been caught in a loop of reading contradictory headlines on social media, leaving him feeling drained. He logs into his coaching dashboard to review his weekly "digital focus" metrics, which clearly show a correlation between his late-afternoon social media usage and his diminished focus. Using the app’s personalized prompts, he commits to a 30-minute "no-tech" walk to reset his brain, successfully avoiding the temptation to check his notifications and returning to his afternoon coding session with restored mental clarity.

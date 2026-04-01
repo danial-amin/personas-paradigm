@@ -1,0 +1,56 @@
+# Smoke-test / dev config — small matrix and cheaper defaults.
+# Run:  python scripts/run_persona_experiment.py --config experiment_config.test.yaml
+# Or set EXPERIMENT_CONFIG=experiment_config.test.yaml in .env
+
+product: "a company offering digital life coaching services"
+product_domain: "personal development and digital wellness"
+
+# Fewer personas than the full study to save tokens during testing.
+num_personas: 2
+
+output_dir: "outputs/experiments_test"
+
+datasets:
+  - id: quant
+    kind: csv
+    path: "data/data_quant/HCI_2025_DigitalLifeSurvey_public.csv"
+    sample_max_rows: 80
+
+  # Uncomment to exercise transcript loading (adds API calls per model).
+  # - id: qual
+  #   kind: transcript_csv
+  #   paths:
+  #     - "data/data_qual/workforce_transcripts.csv"
+  #   id_column: transcript_id
+  #   text_column: text
+  #   max_chars_per_transcript: 4000
+  #   max_rows_per_file: 5
+
+paradigms:
+  # Single paradigm for a quick path through the harness.
+  goal-driven: "goal-driven-persona-prompt.txt"
+
+output_formats:
+  - narrative
+  - structured
+
+models:
+  # Default: one cheap model. Uncomment blocks to verify each provider with the same mini matrix.
+  - provider: openai
+    model_id: "gpt-5.4"
+    max_tokens: 4096
+  - provider: anthropic
+    model_id: "claude-sonnet-4-6"
+    max_tokens: 4096
+  - provider: google
+    model_id: "gemini-3.1-pro-preview"
+    max_tokens: 4096
+
+temperature: 0.7
+
+anthropic_retry:
+  max_attempts: 6
+  initial_delay_seconds: 15
+  backoff_multiplier: 2
+
+openai_structured_outputs: true

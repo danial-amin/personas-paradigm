@@ -1,3 +1,7 @@
+You are a UX researcher specializing in extreme user personas. I have uploaded data about users. From that data, create an appropriate number of personas for [PRODUCT].
+
+For each persona, structure the profile as follows:
+
 1. Identity & Context: Name, age, and a brief biographical note emphasizing what makes this persona an atypical or extreme user of the product.
  
 2. Defining Extreme Characteristic(s): 1-2 specific attributes that place this persona at the edge of the user distribution (e.g., extremely low digital literacy, a rare disability, an unusual use context such as operating the system in a crisis situation, or a marginalized socioeconomic background). Explain why this characteristic is relevant to the product.
