@@ -1,0 +1,67 @@
+Sarah Jenkins is a forty-two-year-old legal assistant who relies on technology to manage high volumes of documentation and correspondence while maintaining strict accuracy.
+
+When using digital products, Sarah specifically wants to extract actionable tasks from lengthy reports quickly and draft professional, tone-appropriate correspondence without starting from scratch.
+
+Beyond her immediate daily tasks, she is deeply motivated by her aspirations to achieve a stress-free work-life balance and be recognized as an indispensable, highly competent professional in her field.
+
+During her interactions with technology, she wants to feel confident that no critical details were missed and feel relieved of the cognitive load associated with repetitive drafting.
+
+To ensure she does not miss critical details, Sarah manually skims documents before pasting them into the AI interface, ensuring the tool only searches for existing information. To support her goal of drafting appropriate correspondence, she actively prompts the AI to adjust the tone of drafted emails to sound more professional or empathetic. Furthermore, to fulfill her aspiration of being recognized as highly competent and accurate, she manually reviews and edits every AI-generated summary before entering it into proprietary software.
+
+Sarah receives a finalized, fifty-page insurance defense report that she needs to process before the end of the day. Wanting to feel relieved of the cognitive load, she quickly skims the document and pastes the relevant sections into the AI interface, instructing it to extract all required follow-up tasks and deadlines. The AI generates a concise list of actionable items, which Sarah manually verifies against the original text to feel confident no errors were made. She then uses the AI to draft a polite, professional email to the client summarizing these next steps, making minor edits to ensure the tone matches her personal standard of competence before sending it off and leaving work on time.
+
+<<<PERSONA_BREAK>>>
+
+Dr. Marcus Thorne is a thirty-five-year-old materials scientist investigating novel compounds who uses technology to accelerate data processing while rigorously defending his scientific methodology.
+
+Within the product context, Marcus wants to rapidly filter and extract specific parameters from large volumes of scientific literature, as well as generate boilerplate code for data visualization and basic statistical modeling.
+
+Looking at the broader picture, he is driven by his desire to make a meaningful, original contribution to his scientific field and to maintain absolute integrity and trust in his professional reputation.
+
+While using these research tools, Marcus wants to feel certain that the information provided is factually accurate and grounded in reality, and he wants to feel intellectually stimulated by doing the complex analysis himself.
+
+To maintain his absolute scientific integrity, Marcus consistently requests exact page numbers, citations, and URLs when asking the AI to summarize literature. To ensure he feels certain that the information is accurate, he spot-checks AI-extracted data against the original source documents using manual search functions. Finally, to fulfill his goal of remaining intellectually stimulated by the core research, he writes the complex analytical portions of his code himself while only delegating routine plotting tasks to the AI.
+
+Marcus needs to evaluate the thermal properties of dozens of new polymer filaments for an upcoming experiment, a task he hopes to accelerate to make a meaningful contribution faster. He uploads a batch of material data sheets to the AI and asks it to extract the glass transition temperatures into a formatted table, requesting exact source references for each data point. To ensure he feels certain about the factual accuracy, he opens three random data sheets and manually verifies the AI's numbers against the original text. Once validated, he asks the AI to write a basic Python script to plot the data, leaving the actual complex comparative analysis for himself so he can maintain his scientific integrity and intellectual engagement.
+
+<<<PERSONA_BREAK>>>
+
+Elena Rodriguez is a twenty-nine-year-old fiction writer and illustrator who uses digital tools to push past creative blocks while fiercely protecting her unique artistic voice.
+
+When engaging with the product, Elena wants to generate diverse brainstorming lists to overcome moments of creative stagnation and receive technical feedback on narrative structure or visual composition without altering her core concepts.
+
+Outside of her immediate projects, she aspires to build a successful career based on her authentic, unique artistic style and wants to consistently feel creatively fulfilled and original.
+
+During her creative process, she wants to feel inspired and energized by new, unexpected ideas, while simultaneously feeling completely in control of the final artistic output.
+
+To fulfill her goal of generating diverse brainstorming lists to feel inspired, Elena prompts the AI for ten or more distinct variations of an idea whenever she feels stuck. To support her goal of feeling completely in control of the output, she strictly rejects AI suggestions that attempt to rewrite her prose or generate final artwork. To build a successful career based on authentic work, she uses AI-generated concepts merely as a springboard, combining fragments of the AI's suggestions with her own original thoughts.
+
+Elena is working on a pivotal chapter of her new fantasy novel but finds herself completely stuck on how to describe a complex political institution in her fictional world. Seeking to feel inspired and energized, she opens her AI tool and asks it to generate a list of fifteen different ways a pre-industrial banking system might operate. She reads through the suggestions, ignoring the fully written paragraphs to remain in control of her final output, but spots a unique phrase about currency exchange that sparks a completely new idea. She closes the AI tool and writes the scene entirely in her own authentic voice, successfully overcoming her creative block while ensuring her original artistic style remains intact.
+
+<<<PERSONA_BREAK>>>
+
+David Chen is a thirty-one-year-old data analyst who bridges the gap between raw data and business strategy by leveraging automation to streamline his coding workflows.
+
+In his daily use of the product, David aims to quickly debug complex code errors in languages like Python or SQL and translate technical business requirements into functional scripts or macros.
+
+His broader motivations include continuously expanding his technical skill set and being highly valued by his organization as an efficient, versatile problem solver.
+
+While interacting with the system, David wants to feel productive and unhindered by tedious technical roadblocks, and he wants to feel empowered to tackle complex problems outside his immediate expertise.
+
+To support his goal of quickly debugging code and feeling unhindered by roadblocks, David pastes cryptic error messages directly into the AI to receive plain-language explanations and targeted fixes. To fulfill his goal of being a versatile problem solver, he iterates with the AI through multiple prompt refinements when an initial script fails to execute properly. To directly support his life goal of continuously expanding his technical skill set, he asks the AI to explain unfamiliar functions or libraries step-by-step rather than just accepting the provided code.
+
+David is tasked with geocoding a massive new dataset of client addresses using an R package he hasn't touched in several years, and he wants to prove his value as an efficient problem solver. When his initial script throws a confusing error message that halts his progress, he pastes the error directly into the AI to feel productive and get past the tedious roadblock. The AI not only identifies the syntax error but suggests a more modern, efficient library for the geocoding task, explaining how the new functions work. David implements the suggested fix and reads the AI's explanation carefully, successfully translating the business requirement into a working script while simultaneously expanding his own technical skill set.
+
+<<<PERSONA_BREAK>>>
+
+Chloe Bennett is a thirty-six-year-old small business owner and content creator who relies on digital assistance to scale her marketing efforts across various platforms.
+
+When utilizing the product, Chloe wants to rapidly generate variations of social media copy tailored to different platforms and optimize her existing content for SEO and audience engagement.
+
+Her overarching aspirations are to grow her business revenue without sacrificing her personal life and to maintain a consistent, relatable brand identity across all customer touchpoints.
+
+Throughout her workflow, Chloe wants to feel relieved of the intense pressure of constant content creation and feel confident that her brand sounds professional yet approachable.
+
+To fulfill her goal of rapidly generating copy while feeling relieved of content creation pressure, Chloe feeds the AI her own raw, stream-of-consciousness notes to be transformed into polished captions. To support her goal of maintaining a consistent, relatable brand identity, she directs the AI to rewrite generated text to remove cheesy, robotic, or overly generic phrases. To directly support her goal of growing her business revenue through better engagement, she uses the AI to suggest highly specific SEO keywords and title variations for her posts.
+
+Chloe has just finished filming a promotional video for her business but feels entirely drained and pressured by the need to post it across three different social media platforms today. To feel relieved of this content creation burden, she types a messy, stream-of-consciousness paragraph about the video's purpose into her AI tool and asks it to generate optimized captions for Instagram, Facebook, and TikTok. The initial results sound a bit too robotic, so she prompts the AI to adjust the tone to be more approachable and less sales-driven, ensuring she feels confident in her professional brand identity. She selects the best variations, applies the SEO keywords the AI suggested to help grow her business, and successfully schedules her marketing posts for the week so she can finally log off and enjoy her evening.

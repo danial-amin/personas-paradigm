@@ -1,0 +1,8 @@
+The narrative below is the source of truth. Convert it into the JSON your system instructions require.
+
+Rules:
+- Preserve the same personas: same count, same names and facts; do not invent new traits or merge/split personas.
+- If the narrative uses the marker <<<PERSONA_BREAK>>> between personas, treat each block as one persona.
+- Only reformat into JSON; do not improve, extend, or rewrite the underlying content.
+
+--- NARRATIVE ---

@@ -1,0 +1,49 @@
+{
+  "personas": [
+    {
+      "persona_index": 1,
+      "identity": "David Chen, 34, Male, Computational Biologist. A data-heavy researcher who relies on AI to write boilerplate code and debug scripts so he can focus on core scientific analysis.",
+      "end_goals": "Quickly debug complex data processing scripts. Automate the formatting of large datasets without manual data entry.",
+      "life_goals": "Make a significant scientific discovery in his field.",
+      "experience_goals": "Feel empowered and efficient during technical execution. Feel confident that the underlying logic remains his own.",
+      "key_behaviors": "Delegates repetitive coding tasks to AI to save time, which directly supports his goal to automate dataset formatting. Verifies AI-generated code by running it line-by-line with test data before implementation, ensuring he meets his goal of debugging complex scripts accurately. Refuses to use AI for theoretical modeling or final data interpretation, which protects his experience goal of feeling confident that the underlying logic remains his own and supports his life goal of making a true scientific discovery.",
+      "scenario_of_use": "David is working on a tight deadline to process a massive new dataset of genomic sequences. He encounters a cryptic syntax error in his Python script that halts his progress. Instead of spending hours scouring forums, he pastes the error and the problematic code snippet into the AI tool. The AI identifies the missing parameter and provides a corrected code skeleton, which David then tests and integrates, allowing him to return to his core analysis within minutes."
+    },
+    {
+      "persona_index": 2,
+      "identity": "Maya Rodriguez, 29, Female, Freelance Illustrator and Writer. A multifaceted creator who uses AI as a sounding board to overcome creative blocks while fiercely protecting her authentic artistic voice.",
+      "end_goals": "Generate diverse brainstorming options for project concepts. Quickly establish structural outlines for new creative pieces.",
+      "life_goals": "Build a recognizable, authentic personal brand as an artist.",
+      "experience_goals": "Feel inspired and unstuck during the ideation phase. Feel protective and proud of her final creative ownership.",
+      "key_behaviors": "Prompts AI for lists of ideas or themes when facing a creative block, which directly achieves her goal of generating diverse brainstorming options. Heavily edits and rewrites any AI-generated text or concepts to match her unique style, supporting her life goal of building an authentic personal brand. Strictly avoids using AI for the final execution of her core artistic deliverables, ensuring she meets her experience goal of feeling proud of her creative ownership.",
+      "scenario_of_use": "Maya is tasked with designing a series of book covers but is struggling to conceptualize the layout for the third book. Feeling stuck, she asks the AI to generate ten different layout descriptions based on the book's themes. She reads through the suggestions, discarding most, but one specific color palette and composition idea sparks her imagination. She closes the AI tool and immediately begins sketching her own original design based on that spark, successfully breaking her creative block."
+    },
+    {
+      "persona_index": 3,
+      "identity": "Sarah Jenkins, 41, Female, Payroll and Compliance Specialist. A meticulous professional handling sensitive data who uses AI for initial research but rigorously checks every output against official documentation.",
+      "end_goals": "Extract specific procedural requirements from dense regulatory documents. Ensure zero errors in final client or financial communications.",
+      "life_goals": "Be recognized as an infallible and trusted expert in her organization.",
+      "experience_goals": "Feel secure and legally protected when applying information. Feel in complete control of the final data output.",
+      "key_behaviors": "Uses AI to summarize long compliance texts but manually cross-references the cited sources, fulfilling her goal of extracting requirements while ensuring zero errors. Breaks down complex mathematical or financial queries into step-by-step prompts to monitor the AI's logic, supporting her experience goal of feeling in complete control. Refuses to input any Personally Identifiable Information (PII) or sensitive company data into the AI, directly aligning with her experience goal of feeling secure and legally protected.",
+      "scenario_of_use": "Sarah needs to understand a recent change in maternity leave payroll regulations to address an employee's inquiry. She asks the AI to summarize the new legislation and provide the specific legal codes. Once the AI provides the summary, Sarah does not immediately apply it; instead, she uses the provided codes to look up the exact legal text on the government website. After verifying the math and the law herself, she confidently drafts the response to the employee without using the AI for the final email."
+    },
+    {
+      "persona_index": 4,
+      "identity": "Marcus Johnson, 32, Male, SEO Content Manager. A high-volume content producer who leverages AI to scale his output and handle tedious administrative tasks, allowing him to focus on strategy.",
+      "end_goals": "Produce large volumes of SEO-optimized drafts in a fraction of the usual time. Automate the creation of routine emails and social media captions.",
+      "life_goals": "Grow his independent business and achieve financial freedom.",
+      "experience_goals": "Feel highly productive and ahead of schedule. Feel relieved from the burden of tedious, repetitive writing.",
+      "key_behaviors": "Feeds detailed, highly structured prompts into the AI to generate full articles or week-long social media content calendars, achieving his goal of producing large volumes of drafts. Routinely uses AI to rewrite his rough notes into professional client emails, fulfilling his goal of automating routine communications. Spends his saved time focusing on client acquisition and higher-level marketing strategy, which directly supports his life goal of growing his independent business.",
+      "scenario_of_use": "Marcus has just signed a new client who needs ten SEO-optimized blog posts by the end of the week. Knowing he cannot write them all from scratch in time, he creates a detailed prompt containing the required keywords, brand tone, and formatting rules. He uses the AI to generate the first drafts of all ten posts in a single afternoon. He then spends the next day acting as an editor, tweaking the AI's output to ensure it sounds natural and meets the client's standards, successfully delivering the project ahead of schedule."
+    },
+    {
+      "persona_index": 5,
+      "identity": "Dr. Elena Rostova, 48, Female, Clinical Research Director. A highly experienced specialist who uses AI to bridge gaps in peripheral knowledge but relies entirely on her decades of experience for core domain decisions.",
+      "end_goals": "Quickly locate relevant peer-reviewed papers outside of her immediate specialty. Translate complex technical findings into accessible formats for non-expert stakeholders.",
+      "life_goals": "Advance patient care through rigorous, unimpeachable scientific research.",
+      "experience_goals": "Feel authoritative and deeply knowledgeable in her field. Feel confident that her professional reputation is uncompromised.",
+      "key_behaviors": "Uses AI as a smart search engine to find connections between different scientific disciplines, fulfilling her goal of locating relevant papers outside her specialty. Asks AI to adjust the reading level of her written reports for broader audiences while strictly maintaining the factual data, achieving her goal of translating technical findings. Completely ignores AI suggestions that conflict with her clinical intuition or established safety protocols, supporting her experience goal of feeling confident that her professional reputation is uncompromised.",
+      "scenario_of_use": "Elena is preparing a presentation for a hospital board regarding a new clinical trial. While she knows the medical data perfectly, she needs to explain the statistical modeling in a way that hospital administrators will easily grasp. She inputs her highly technical summary into the AI and asks it to rewrite the text for a non-scientific executive audience. She carefully reviews the AI's output, correcting a minor hallucination where the AI misrepresented a clinical risk, and then uses the refined, accessible language in her final presentation slides."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+David is a 39-year-old male senior project manager. He is a busy professional who spends over ten hours a day online for work and struggles to disconnect from his devices when the workday ends.
+
+David's primary goals when using the digital life coaching service are to establish strict daily limits on his non-essential screen time and to successfully reclaim two hours of his evening for offline hobbies.
+
+Beyond the immediate product, David is deeply motivated by the desire to achieve a healthy work-life balance and to feel physically and mentally energized at the end of his day.
+
+While interacting with the coaching service, David wants to feel relieved and unburdened when logging off, as well as confident that his digital boundaries are being respected.
+
+David frequently checks emails after hours, which directly drives his goal to establish strict screen-time limits. He regularly experiences dry eyes and mental fatigue after long periods online, reinforcing his life goal of feeling physically energized. To cope with this digital overwhelm, he often tries to take breaks to exercise, a behavior that supports his goal of reclaiming offline time for hobbies.
+
+David opens the digital life coaching app after a grueling ten-hour workday feeling completely drained. He interacts with the app's boundary-setting module to lock his work email and social media accounts for the evening. The app guides him through a brief, five-minute offline transition exercise, helping him mentally detach from his screen. Feeling an immediate sense of relief, David puts his phone away and spends the rest of the evening reading a physical book.
+
+<<<PERSONA_BREAK>>>
+
+Chloe is a 22-year-old female university student. She is a highly connected young adult who frequently falls into social media rabbit holes and feels intense guilt about wasting her day.
+
+Chloe's primary goals when using the digital life coaching service are to identify the emotional triggers that cause her mindless scrolling and to replace one hour of social media consumption with a productive learning activity.
+
+In her broader life, Chloe aspires to develop a strong, independent sense of self-worth free from online comparisons and to maintain robust mental health.
+
+During her interaction with the service, she wants to feel understood and validated in her struggles, as well as empowered to put her phone down without experiencing the fear of missing out.
+
+Chloe routinely spends seven to eight hours online and logs off feeling guilty and sad, which links directly to her goal of identifying her scrolling triggers. She relies heavily on academics and experts for reliable information, driving her desire for validated, structured coaching. When overwhelmed, she abruptly turns off her phone, a coping mechanism that supports her goal of replacing screen time with productive offline activities.
+
+Late at night, Chloe realizes she has been doomscrolling for two hours and opens the digital life coaching service feeling anxious. She logs her current mood and the specific apps that triggered her negative feelings into the platform's tracker. The service provides a tailored, expert-backed audio guide on breaking the comparison cycle, which makes her feel instantly understood. Empowered by the session, she schedules a lock on her social apps for the next morning and goes to sleep feeling optimistic.
+
+<<<PERSONA_BREAK>>>
+
+Marcus is a 51-year-old male financial analyst. He is a pragmatic professional who relies heavily on the internet for data but is increasingly frustrated and angered by the influx of AI-generated misinformation.
+
+When using the digital life coaching service, Marcus wants to learn techniques to quickly verify the authenticity of online information and to effectively filter out AI-generated content from his daily news feeds.
+
+Beyond the product context, Marcus is motivated by the desire to protect his intellectual independence and to navigate the world as a highly informed, rational citizen.
+
+While engaging with the platform, Marcus wants to feel secure and confident in the media he consumes, and he wants to feel entirely in control of his digital environment.
+
+Marcus habitually looks for multiple sources to verify claims, a behavior that supports his goal of learning fast verification techniques. He expresses extreme annoyance when tricked by fake content, directly linking to his goal of filtering out AI-generated media. He prioritizes information supported by clear facts and evidence from recognized experts, which aligns with his life goal of remaining a rational, informed citizen.
+
+While researching a topic for personal investments, Marcus encounters an article that feels slightly off and suspects it is AI-generated. He uses the digital life coaching service's media literacy module to cross-reference the article's claims and identify algorithmic biases. The platform provides him with a checklist of expert-backed verification steps, making him feel secure and in control of his information intake. Confident that he has filtered out the noise, Marcus successfully avoids the misinformation and adjusts his news feed preferences accordingly.
+
+<<<PERSONA_BREAK>>>
+
+Sarah is a 31-year-old female remote customer service representative. She lives far from her hometown and spends most of her day online seeking human connection, but often leaves her screens feeling isolated and inadequate.
+
+Sarah's specific goals for the digital life coaching service are to transition her digital communication into real-world, face-to-face interactions and to curate her social feeds to show only authentic updates from close friends.
+
+In her broader life, Sarah aspires to build a supportive, localized community and to overcome her persistent feelings of loneliness and inadequacy.
+
+During her time on the platform, Sarah wants to feel genuinely connected and seen, and she wants to feel uplifted rather than drained by her social interactions.
+
+Sarah spends time online specifically to feel connected, which drives her goal to curate authentic and meaningful social feeds. She frequently feels lonely and jealous after viewing influencer content, linking directly to her life goal of overcoming inadequacy. She prefers taking advice from family and friends over institutions, supporting her desire to build a genuine, localized community.
+
+Feeling lonely after a full day of remote work, Sarah turns to the digital life coaching platform instead of opening her usual social media apps. She accesses a module focused on building offline communities and completes an exercise that helps her plan a local meetup. The app then guides her through cleaning up her digital feeds, prompting her to unfollow accounts that trigger her jealousy. Feeling uplifted and authentically connected to her goals, she texts a nearby friend to grab coffee.
+
+<<<PERSONA_BREAK>>>
+
+Robert is a 64-year-old retired male teacher. He appreciates the convenience of the digital world for shopping and staying informed but feels highly overwhelmed by constant notifications, scams, and privacy threats.
+
+When using the digital life coaching service, Robert wants to implement strict privacy settings to protect his personal data and to consolidate his digital tools to reduce notification fatigue.
+
+Beyond his immediate screen time, Robert is motivated by the desire to maintain his independence and safety in a rapidly changing world, as well as to enjoy a peaceful, stress-free daily routine.
+
+While interacting with the product, Robert wants to feel safe and protected from online threats, and he wants to feel calm and unhurried when navigating his devices.
+
+Robert expresses high distrust in big tech companies regarding data usage, a behavior that links directly to his goal of implementing strict privacy settings. He copes with digital overwhelm by stepping away from his devices entirely, supporting his goal of reducing notification fatigue. He values clear, straightforward facts without algorithmic manipulation, which ties into his life goal of maintaining a peaceful, stress-free routine.
+
+Robert receives a barrage of confusing email notifications and pop-up ads, leaving him feeling frustrated and vulnerable. He opens the digital life coaching service and selects the digital decluttering pathway to regain his peace of mind. The service walks him through a simple, jargon-free process to disable tracking cookies and silence non-essential alerts on his tablet. Feeling safe and calm, Robert closes the app and enjoys his afternoon reading the news without a single interruption.

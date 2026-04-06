@@ -1,0 +1,77 @@
+**Persona 1: Marcus Webb, 33, Male, Full-Time Software Developer, USA**
+
+Marcus is a full-time developer in his early thirties who spends 9–10 hours online daily for both work and leisure, leaving him feeling drained and sometimes guilty about the time lost to passive scrolling.
+
+His end goals when using a digital life coaching service are to establish a structured daily routine that separates intentional online work from mindless consumption, to replace at least one hour of daily scrolling with a purposeful offline activity such as exercise or reading, and to build the self-awareness needed to recognize when he is doom-scrolling so he can interrupt the pattern before it takes hold.
+
+Beyond the product, Marcus wants to feel genuinely productive and present in his own life rather than perpetually catching up with a feed that never ends. He aspires to reclaim a sense of agency over his attention, believing that mastering his digital habits is the gateway to deeper personal and professional fulfilment.
+
+During coaching interactions Marcus wants to feel understood rather than lectured. He wants the experience to feel data-driven and honest, consistent with his professional instinct to rely on clear facts and evidence, and he wants to leave each session with one concrete, actionable change rather than vague motivational advice.
+
+Marcus's observable behaviours show that he almost always questions whether online content is real or trustworthy, reflecting a critical mindset that extends to his own digital choices. When he recognises he is wasting time he reaches for Google to cross-check sources rather than accepting what he sees, linking directly to his goal of intentional consumption. He typically copes with digital overwhelm by taking a break and exercising, which aligns with his end goal of substituting scrolling with physical activity. He also frequently thinks about the implications of AI on his daily life, indicating readiness to engage with reflective coaching prompts about technology's role in his wellbeing.
+
+Marcus opens the coaching app on a Tuesday evening after finishing a long remote-work session. He has just spent forty minutes on social media without meaning to and feels the familiar guilt settling in. He navigates to his weekly reflection prompt and types out what happened, hoping the coach will help him identify the specific trigger. The app surfaces a pattern it has noticed across three previous entries: his scrolling spikes after back-to-back video calls. Marcus had not connected those dots himself. He sets a micro-goal to take a five-minute walk after every meeting block tomorrow, and the app schedules a check-in for Wednesday night to see whether it worked.
+
+<<<PERSONA_BREAK>>>
+
+**Persona 2: Claire Hutchinson, 37, Female, Part-Time Worker, United Kingdom**
+
+Claire is a thirty-seven-year-old part-time worker in Scotland who spends 5–6 hours online daily and frequently regrets the time lost, describing herself afterward as drained and wasteful, while still valuing the sense of connection and information the internet provides.
+
+Her end goals when using a digital life coaching service are to reduce the number of evenings she spends mindlessly scrolling social media so she can reclaim time for family activities she has explicitly identified as more aligned with her values, to develop a reliable method for fact-checking online content so she feels less manipulated and more in control of what she believes, and to create a consistent digital wind-down routine that prevents late-night phone use from disrupting her sleep.
+
+At a broader life level, Claire wants to feel that her daily choices genuinely reflect her values around family, honesty, and fairness rather than being hijacked by platform algorithms. She aspires to model a healthier relationship with technology for the people around her.
+
+During coaching interactions Claire wants to feel supported and non-judged, and she wants the experience to be grounded in practical, lived reality rather than abstract theory. She is most motivated when she can see a clear link between a small behavioural change and an outcome she already cares about.
+
+Claire's behaviours reveal that she often questions online content and trusts traditional news and academic sources over social media, which connects directly to her goal of building a more discerning information diet. She copes with digital overwhelm by taking a break, but she has identified that she would prefer to talk to someone, suggesting she would respond well to a coaching format that feels conversational. She frequently feels lonely or disconnected after time online, which reinforces her end goal of replacing passive scrolling with active family engagement. She also sometimes experiences loneliness after social media use despite seeking connection there, a tension the coaching service could help her articulate and resolve.
+
+It is a Thursday evening and Claire's children are in bed. She picks up her phone intending to check the news but forty minutes later she is still on social media, feeling flat. She opens the coaching app and completes a two-minute end-of-day check-in, noting her mood as low and her screen time as higher than planned. The coach reflects back a pattern from the past two weeks: her regret scores spike on evenings when she skips her planned twenty-minute reading window. The app prompts her to set a phone-down alarm for 9 p.m. tonight and offers a short breathing exercise to help her transition. Claire sets the alarm and feels a small but genuine sense of control returning.
+
+<<<PERSONA_BREAK>>>
+
+**Persona 3: Jordan Ellis, 26, Male, Full-Time Worker, USA**
+
+Jordan is a twenty-six-year-old full-time employee in the United States who spends 5–6 hours online daily, often feels tired afterward, and experiences guilt when online activity does not align with his personal values around family time, learning, and exercising.
+
+His end goals when using a digital life coaching service are to decrease daily screen time by replacing at least one passive consumption session with a values-aligned activity he has already identified as preferable, to develop a practical fact-checking habit so he can engage with online content confidently rather than feeling deceived or annoyed, and to build enough self-discipline to stop engaging with content he knows is designed to provoke or waste his time.
+
+Jordan's broader life aspiration is to feel that his attention is genuinely his own and that the time he invests online makes him a more capable and connected person rather than a more distracted one. He worries quite a lot about AI's impact on his life and wants to feel prepared rather than overwhelmed.
+
+During coaching interactions Jordan wants to feel energised and forward-moving. He is most engaged when content is evidence-based and when he can verify that the guidance he receives is grounded in real expertise, consistent with his preference for academic and expert sources.
+
+Jordan's behaviours show that when he encounters doubtful content he looks for multiple sources, reflecting a habit of critical verification that a coach can build on rather than start from scratch. He often thinks about AI's implications on daily life, making him receptive to coaching that addresses digital literacy alongside behaviour change. He copes with overwhelm through exercise, which aligns with his stated preference for values-aligned alternatives to scrolling. He sometimes regrets his online time and would have preferred something meaningful or purposeful, which gives the coach a clear motivational anchor for goal-setting conversations.
+
+Jordan logs into the coaching app on a Saturday morning after noticing his screen-time report shows two hours of social media use before 10 a.m. He feels annoyed at himself and opens his weekly goal review. The coach shows him that on the three previous Saturdays he met his movement goal on days when he put his phone on charge in another room overnight. The coach asks him to commit to one structural change for next weekend and Jordan sets a rule: phone stays in the kitchen until after his morning run. He saves the commitment and feels a sense of clarity that the usual cycle of guilt and scrolling does not give him.
+
+<<<PERSONA_BREAK>>>
+
+**Persona 4: Diane Okafor, 47, Female, Full-Time Worker, USA**
+
+Diane is a forty-seven-year-old full-time worker in the United States who spends 9–10 hours online daily, frequently feels exhausted and drained by long digital sessions, and almost always questions whether the social media content she encounters is real or trustworthy.
+
+Her end goals when using a digital life coaching service are to establish firm boundaries between her work-related online time and her personal downtime so she can actually switch off in the evenings, to reduce the emotional toll of encountering misinformation and AI-generated content by building a consistent verification routine she trusts, and to spend less time on social media overall, replacing it with activities that leave her feeling accomplished rather than depleted.
+
+Diane's life goal is to reclaim a sense of calm authority over her own information environment and her own schedule. She is deeply bothered by the idea that she is being influenced by content designed to manipulate rather than inform, and she wants to feel confident that her beliefs and decisions are genuinely her own.
+
+During coaching interactions Diane wants to feel taken seriously as an experienced adult who does not need to be patronised. She wants the coaching to feel grounded in evidence and to acknowledge the real structural pressures, such as work demands and always-on culture, that make digital boundaries hard to maintain.
+
+Diane's behaviours show that she looks for multiple sources when she doubts content and trusts academic and expert voices, which means she will be receptive to coaching that cites research and explains the reasoning behind its recommendations. She is extremely bothered when she discovers AI-generated content was designed to influence her decisions, a strong emotional signal that a coach can use to reinforce the value of her boundary-setting goals. She copes with overwhelm by taking a break, but she has identified that she would like to be able to do anything else entirely, suggesting she is ready for more structural interventions rather than just momentary pauses. She often thinks about AI's implications, making her a motivated and reflective coaching participant.
+
+Diane arrives home after a long day and finds herself scrolling through news and social media for another ninety minutes before dinner. She opens the coaching app feeling frustrated. The app's weekly summary shows that her evening screen time has averaged two hours and twenty minutes, nearly all of it passive consumption of news and social media content. The coach surfaces a question she had answered in her intake: what does a genuinely restful evening look like to you? Diane had written that it involved cooking something she enjoys and reading. The coach proposes a simple experiment: set a 6:30 p.m. phone-down boundary for five consecutive evenings and rate her mood each night. Diane agrees, and for the first time in weeks she feels like the evening ahead belongs to her.
+
+<<<PERSONA_BREAK>>>
+
+**Persona 5: Aidan Byrne, 31, Male, Full-Time Worker, United Kingdom**
+
+Aidan is a thirty-one-year-old full-time worker in the United Kingdom who spends more than 12 hours online daily, primarily for work but also out of habit, and consistently describes feeling exhausted and alone after long digital sessions despite valuing the sense of connection the internet can provide.
+
+His end goals when using a digital life coaching service are to identify and break the specific scrolling loops that keep him online long after his work is finished, to develop a realistic plan for reducing total daily screen time that accounts for the genuine demands of his job, and to replace at least some passive online time with activities that involve real-world connection, which he has identified as a core personal value.
+
+Aidan's broader life aspiration is to feel less like a passive consumer of other people's content and more like an active participant in his own relationships and interests. He is acutely aware that his digital habits are making him feel stunted and isolated, and he wants to break that cycle before it becomes permanent.
+
+During coaching interactions Aidan wants to feel that the coach understands the specific difficulty of disentangling work-required online time from compulsive personal use. He does not want to be told simply to use his phone less; he wants a nuanced approach that helps him draw meaningful distinctions and build habits that are sustainable within his actual life.
+
+Aidan's behaviours show that he always regrets the time he spends online and would have preferred something aligned with his values such as family time or learning, which gives the coach powerful motivational material to draw on in goal-setting. He looks for multiple sources when he doubts content and trusts academic experts, meaning he will engage seriously with evidence-based coaching content. He copes with overwhelm by taking a walk in a nearby park and looking at trees, a self-identified restorative ritual that a coach can help him schedule more deliberately. He often thinks about AI's implications and is alert to the risks of disassociating from online life entirely, which suggests he wants balance rather than abstinence and will respond well to a coaching approach that honours that nuance.
+
+It is a Sunday evening and Aidan has been online since 8 a.m. He opens the coaching app after realising he has not spoken to anyone in person all weekend. The app presents his weekly pattern: his longest unbroken online sessions happen on Sundays and correlate with his lowest self-reported mood scores. The coach asks one question: what is one thing you could do for thirty minutes tomorrow morning before opening any screen? Aidan types that he would like to walk to the canal near his flat. The coach schedules a reminder for 7:45 a.m. Monday and asks him to log how he feels when he returns. Aidan closes the app feeling, for the first time that weekend, like tomorrow might be different.

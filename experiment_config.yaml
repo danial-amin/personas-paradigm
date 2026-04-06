@@ -2,8 +2,8 @@
 # Run from repo root:  python scripts/run_persona_experiment.py
 # Smaller test matrix: experiment_config.test.yaml — copy .env.example to .env for API keys.
 
+# Default [PRODUCT] when a dataset block omits `product`. Prefer one `product` per dataset below.
 product: "a company offering digital life coaching services"
-product_domain: "personal development and digital wellness"
 
 # How many personas each call should generate (injected into prompts).
 num_personas: 5
@@ -17,11 +17,13 @@ datasets:
     kind: csv
     path: "data/data_quant/HCI_2025_DigitalLifeSurvey_public.csv"
     sample_max_rows: 1000
+    product: "a company offering digital life coaching services"
 
   - id: mixed
     kind: csv
     path: "data/data_mixed/Dataset.csv"
     sample_max_rows: 1000
+    product: "a company offering productivity and remote-work services"
 
   # Qualitative text: multiple transcript CSVs combined with a source label.
   - id: qual
@@ -36,14 +38,15 @@ datasets:
     max_chars_per_transcript: 12000
     # Cap rows per file (first N after optional shuffle); keeps runtime manageable.
     max_rows_per_file: 45
+    product: "a company offering user experience research services"
 
 # Paradigm id -> prompt file under prompts/
 paradigms:
   goal-driven: "goal-driven-persona-prompt.txt"
-  engaging: "engaging-persona-prompt.txt"
-  role-based: "role-based-persona-prompt.txt"
-  extreme: "extreme-persona-prompt.txt"
-  proto: "proto-prompt.txt"
+  # engaging: "engaging-persona-prompt.txt"
+  # role-based: "role-based-persona-prompt.txt"
+  # extreme: "extreme-persona-prompt.txt"
+  # proto: "proto-prompt.txt"
 
 # Output modes: narrative = plain prose (.txt), structured = JSON (.json) using prompts/structured-output-instructions.txt
 output_formats:
@@ -56,18 +59,23 @@ output_formats:
 # infers that from the model_id, or set explicitly:
 #   use_max_completion_tokens: true   # or false to force max_tokens
 models:
-  - provider: anthropic
-    model_id: "claude-sonnet-4-20250514"
-    max_tokens: 8192
   - provider: openai
-    model_id: "gpt-4o"
+    model_id: "gpt-5.4"
+    max_tokens: 8192
+  - provider: anthropic
+    model_id: "claude-sonnet-4-6"
     max_tokens: 8192
   - provider: google
-    model_id: "gemini-2.0-flash"
+    model_id: "gemini-3.1-pro-preview"
     max_tokens: 8192
 
 # Inference
 temperature: 0.7
+# Optional integer. Passed to OpenAI and Google (Anthropic has no seed). Improves repeatability; does not guarantee identical narrative vs structured unless structured_from_narrative is true.
+# seed: 42
+
+# If true, structured output is produced by converting the narrative from the same run (same dataset/paradigm/model), so JSON aligns with the .txt file. Requires output_formats to include both narrative and structured.
+structured_from_narrative: false
 
 # OpenAI only: enforce JSON via API Structured Outputs (per-paradigm schema). Set false to use prompt-only JSON.
 openai_structured_outputs: true

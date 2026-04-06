@@ -1,0 +1,49 @@
+{
+  "personas": [
+    {
+      "persona_index": 1,
+      "identity": "David is a 41-year-old male corporate manager who spends up to 10 hours a day online for work and struggles to disconnect his brain at the end of the day.",
+      "end_goals": "David wants to establish clear boundaries between his professional and personal digital use. He also aims to complete his digital tasks efficiently so he can minimize his overall screen time and avoid digital fatigue.",
+      "life_goals": "He aspires to achieve a healthy work-life balance and wants to reclaim his physical energy and mental clarity after long days.",
+      "experience_goals": "He wants to feel relieved and in control of his time during the interaction. He also needs to feel unburdened by constant notifications and digital demands.",
+      "key_behaviors": "David frequently takes breaks by stepping away from his screens when he feels drained or lethargic. He relies heavily on search engines to find quick, factual answers to avoid getting sucked into browsing. He often expresses regret over the amount of time he spends online when he accidentally falls into a scrolling trap after work.",
+      "scenario_of_use": "After a long day of back-to-back virtual meetings, David feels completely drained and receives a notification from his digital life coaching app. He opens the app to access a quick, guided digital detox exercise designed to help him transition from work mode to personal time. By following the app's prompt to silence non-essential alerts and review his screen-time metrics, he successfully puts his phone away and enjoys an uninterrupted evening with his family."
+    },
+    {
+      "persona_index": 2,
+      "identity": "Susan is a 62-year-old female retired teacher who values authentic human connection and is increasingly frustrated by the proliferation of AI-generated fake news.",
+      "end_goals": "Susan wants to quickly identify whether online content is human-created or AI-generated. She also wants to find trustworthy, evidence-based information without feeling manipulated by algorithms.",
+      "life_goals": "She strives to stay informed about the world without compromising her peace of mind. She also deeply desires to protect her personal data and privacy from tech companies.",
+      "experience_goals": "She wants to feel confident that the information she consumes is accurate and vetted. She also needs to feel secure and respected by the platform, rather than tricked or deceived.",
+      "key_behaviors": "Susan consistently cross-references multiple sources when she doubts the validity of an article. She relies heavily on recognized academic experts and established institutions for her news. She actively avoids social media feeds that push rage-bait or sensationalized content, preferring to completely log off when she feels overwhelmed.",
+      "scenario_of_use": "Susan is browsing her news feed and spots a highly sensational article that makes her feel immediately suspicious and annoyed. She uses her digital coaching tool to run a quick source-check and verify the authenticity of the claims. Realizing it is AI-generated misinformation, she confidently blocks the source and uses the tool's recommendation to find a verified, expert-backed article on the exact same topic."
+    },
+    {
+      "persona_index": 3,
+      "identity": "Chloe is a 22-year-old female university student who spends over 8 hours a day on social media but frequently feels depressed and inadequate after comparing herself to influencers.",
+      "end_goals": "Chloe wants to break her cycle of mindless doomscrolling late at night. She also wants to replace her passive content consumption with active, value-aligned learning that makes her feel good.",
+      "life_goals": "She hopes to build genuine self-esteem that is completely independent of online validation. She also wants to foster authentic, in-person friendships rather than relying on parasocial relationships.",
+      "experience_goals": "She wants to feel inspired and motivated rather than guilty and empty after using her devices. She desires a sense of calm and clarity while engaging with digital tools.",
+      "key_behaviors": "Chloe spends long hours on video-heavy social media platforms despite feeling exhausted and anxious afterward. She frequently expresses regret over wasted time but struggles with the impulse control to put her phone down. She relies on turning off her phone entirely as a last-resort coping mechanism when the digital overwhelm becomes too much to handle.",
+      "scenario_of_use": "It is past midnight, and Chloe is feeling anxious and guilty after two hours of mindless scrolling on video apps. She opens her digital life coaching app, which gently interrupts her scrolling pattern with a pre-scheduled mindfulness prompt. Following the app's advice, she switches her phone to grayscale, logs her current mood, and listens to a short audio wind-down routine that helps her finally go to sleep."
+    },
+    {
+      "persona_index": 4,
+      "identity": "Marcus is a 34-year-old male freelance graphic designer and caregiver who juggles remote work with raising children, relying on his phone for quick answers but worrying about his attention span.",
+      "end_goals": "Marcus wants to find immediate, reliable answers to daily parenting and household questions without getting sucked into a digital rabbit hole. He also wants to set up healthy screen-time limits for himself to model good behavior for his kids.",
+      "life_goals": "He wants to be fully present and emotionally engaged with his family. He also strives to maintain his mental sharpness and focus, which he feels is degrading due to constant multitasking.",
+      "experience_goals": "He wants to feel supported and highly efficient during his brief digital interactions. He also wants to feel reassured that his digital habits are healthy and not negatively impacting his children.",
+      "key_behaviors": "Marcus uses search engines for quick, pragmatic lookups like recipes or DIY fixes between household chores. He feels frustrated and duped when his search results are cluttered with AI-generated filler instead of straight facts. He purposefully leaves his phone in another room to cope with the overstimulation of family demands mixed with digital noise.",
+      "scenario_of_use": "While cooking dinner and watching the kids, Marcus needs to quickly look up a substitute ingredient but is met with a wall of AI-generated text and advertisements. Frustrated, he uses his digital coaching app's voice-activated feature to bypass the clutter and get a straight, verified answer from a trusted culinary source. The app later sends him a positive reinforcement notification for keeping his screen time under his personal goal for the afternoon, allowing him to focus entirely on his family."
+    },
+    {
+      "persona_index": 5,
+      "identity": "Aisha is a 29-year-old female marketing specialist who leverages AI to speed up her workflow but is exhausted by the low-quality algorithmic content taking over her personal feeds.",
+      "end_goals": "Aisha wants to curate her digital environment to show only high-quality, relevant content. She also aims to automate repetitive tasks without losing her own creative voice or compromising her privacy.",
+      "life_goals": "She wants to maximize her earning potential through efficient, high-quality work. She also hopes to cultivate a rich, offline hobby life with the time she saves using digital tools.",
+      "experience_goals": "She wants to feel highly productive and empowered by the technology she uses. She also needs to feel creatively stimulated rather than bogged down by repetitive digital noise.",
+      "key_behaviors": "Aisha actively uses AI tools to summarize information and draft emails to save time during her workday. She meticulously customizes her algorithms and mutes accounts to avoid negative, irrelevant, or fake content. She relies on her personal instincts and expert consensus to filter out bad data when researching topics online.",
+      "scenario_of_use": "Aisha is tasked with researching a new market trend for her job and wants to avoid getting bogged down by repetitive, low-value articles. She uses her digital life coaching dashboard to set a strict 30-minute focus timer and applies a custom filter that blocks known AI-content farms from her search results. She efficiently gathers the expert-backed data she needs, logs off feeling accomplished, and uses her saved time to go for a run outside."
+    }
+  ]
+}

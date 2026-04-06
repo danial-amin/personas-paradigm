@@ -8,9 +8,9 @@ Each persona must read as a vivid, empathy-inducing character sketch. Include th
 
 3. A Day in the Life: A 4-6 sentence narrative describing a typical day, weaving in routines, social interactions, stressors, and moments of satisfaction.
 
-4. Relationships & Social Context: Key people in the persona's life (e.g., partner, colleague, friend) and how these relationships influence the persona's decisions and attitudes toward [PRODUCT DOMAIN].
+4. Relationships & Social Context: Key people in the persona's life (e.g., partner, colleague, friend) and how these relationships influence the persona's decisions and attitudes toward [PRODUCT].
 
-5. Hopes & Fears: 2-3 personal aspirations and 2-3 anxieties, at least one of each directly related to product domain.
+5. Hopes & Fears: 2-3 personal aspirations and 2-3 anxieties, at least one of each directly related to [PRODUCT].
 
 6. Attitude Toward the Product: A nuanced paragraph describing the persona's beliefs, past experiences, and emotional associations with the product.
 

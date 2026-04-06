@@ -2,8 +2,8 @@
 # Run:  python scripts/run_persona_experiment.py --config experiment_config.test.yaml
 # Or set EXPERIMENT_CONFIG=experiment_config.test.yaml in .env
 
+# Default [PRODUCT] if a dataset omits `product`.
 product: "a company offering digital life coaching services"
-product_domain: "personal development and digital wellness"
 
 # Fewer personas than the full study to save tokens during testing.
 num_personas: 2
@@ -15,6 +15,7 @@ datasets:
     kind: csv
     path: "data/data_quant/HCI_2025_DigitalLifeSurvey_public.csv"
     sample_max_rows: 80
+    product: "a company offering digital life coaching services (HCI digital-life survey)"
 
   # Uncomment to exercise transcript loading (adds API calls per model).
   # - id: qual
